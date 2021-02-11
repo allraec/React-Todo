@@ -1,3 +1,33 @@
 .todo.completed{
     text-decoration: line-through;
 }
+
+.App{
+    text-align: center;
+}
+
+body{
+    background-color: #b19cd9;
+}
+
+h1{
+    color: #d62839;
+}
+
+.todo-list{
+    border: 5px solid #c4d99c;
+    border-radius: 10%;
+    margin: 5% 40% 5% 40%;
+    padding-bottom: 1%;
+    background-color: #d62839;
+    color: #c4d99c;
+    font-size: 20px;
+}
+.task{
+    cursor: pointer;
+}
+
+button{
+    background-color: #b19cd9;
+    color: white;
+}
